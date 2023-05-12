@@ -14,7 +14,7 @@ public class Main {
     }
 
 
-    public void main(String[] args) {
+    public static void main(String[] args) {
         Product p = new Product();
         p.product(2, 3);
         p.product(2, 3, 4);
